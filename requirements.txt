@@ -1,7 +1,7 @@
 streamlit==1.13.0
 numpy
 Pillow
-paddlepaddle-gpu==2.2.0rc0
+paddlepaddle==2.2.2
 pandas
 opencv-python-headless
 visualdl==2.4.0
